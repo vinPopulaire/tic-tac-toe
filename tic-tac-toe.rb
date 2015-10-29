@@ -129,5 +129,5 @@ class Game
 
 end
 
-game = Game.new
-game.begin
+# game = Game.new
+# game.begin
